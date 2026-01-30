@@ -1,0 +1,52 @@
+🔹 Question 1
+
+Write a Java program to reverse a given string without using StringBuilder.reverse().
+
+🔹 What the interviewer is testing
+
+Loops
+
+String immutability
+
+Basic logic
+
+🔹 Example
+
+Input: "Java"
+Output: "avaJ"
+
+2️⃣ Check if a Number is Prime
+🔹 Question
+
+Write a Java program to check whether a given number is prime or not.
+
+🔹 What the interviewer is testing
+
+Loops
+
+Conditional logic
+
+Mathematical reasoning
+
+🔹 Example
+
+Input: 7
+Output: Prime
+
+3️⃣ Find the Largest Element in an Array
+🔹 Question
+
+Write a Java program to find the largest number in an array.
+
+🔹 What the interviewer is testing
+
+Arrays
+
+Traversal
+
+Comparison logic
+
+🔹 Example
+
+Input: {10, 45, 3, 99, 23}
+Output: 99
